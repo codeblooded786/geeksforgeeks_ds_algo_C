@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedListDeletion.dir/main.cpp.o  -o LinkedListDeletion 

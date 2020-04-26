@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedListInsertion.dir/main.cpp.o  -o LinkedListInsertion 
